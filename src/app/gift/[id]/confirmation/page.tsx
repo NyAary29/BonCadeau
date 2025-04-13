@@ -5,7 +5,7 @@ import {  useRef } from 'react';
 import html2pdf from 'html2pdf.js';
 
 export default function GiftConfirmationPage() {
-  const params = useParams();
+ 
   const searchParams = useSearchParams();
 
   const nom = searchParams.get('nom') || 'Nom du bénéficiaire';

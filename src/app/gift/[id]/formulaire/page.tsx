@@ -134,7 +134,7 @@ function generateGiftCode() {
               checked={cgvAccepted}
               onChange={(e) => setCgvAccepted(e.target.checked)}
             />
-            <span>J'accepte les conditions générales de vente et de retour</span>
+            <span>J&apos;accepte les conditions générales de vente et de retour</span>
           </label>
 
           <p className="text-xs text-[#888]">
