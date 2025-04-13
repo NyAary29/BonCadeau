@@ -1,14 +1,13 @@
 'use client';
 
 import { useSearchParams, useParams } from 'next/navigation';
-import { useEffect, useRef, useState } from 'react';
+import {  useRef } from 'react';
 import html2pdf from 'html2pdf.js';
 
 export default function GiftConfirmationPage() {
   const params = useParams();
   const searchParams = useSearchParams();
 
-  const id = params.id;
   const nom = searchParams.get('nom') || 'Nom du bénéficiaire';
   const modele = searchParams.get('modele') || '1';
   const numero = searchParams.get('code') || generateGiftNumber();

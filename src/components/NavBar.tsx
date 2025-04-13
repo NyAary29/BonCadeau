@@ -1,6 +1,5 @@
 'use client';
 
-import { FaRegImage } from 'react-icons/fa6';
  function LogoIconSvg() {
   return (
     <svg

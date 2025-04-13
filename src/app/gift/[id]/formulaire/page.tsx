@@ -126,9 +126,6 @@ function generateGiftCode() {
     ))}
   </div>
 </div>
-
-
-
         {/* CGV + bouton */}
         <div className="space-y-4 text-sm text-[#5F4B32]">
           <label className="flex items-start gap-2">
