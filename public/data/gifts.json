@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Menu Kaiseki",
+    "description": "Expérience culinaire traditionnelle japonaise avec plusieurs petits plats raffinés",
+    "price": 120,
+    "category": "Formules repas",
+    "image": "https://images.unsplash.com/photo-1553621042-f6e147245754?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Séjour Ryokan",
+    "description": "Nuitée dans une auberge traditionnelle avec petit-déjeuner japonais inclus",
+    "price": 180,
+    "category": "Repas & hébergement",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+  },
+  {
+      "id": 3,
+      "title": "Dîner Sushi Omakase",
+      "description": "Menu dégustation de sushi préparé par un chef japonais pour 2 personnes",
+      "price": 150,
+      "category": "Repas & cadeau",
+     "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Menu Bento Premium",
+     "description": "Boîte-repas japonaise traditionnelle avec assortiment de spécialités",
+      "price": 95,
+      "category":"Formules repas",
+     "image":"https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 5,
+      "title":"Expérience Onsen Gourmande",
+     "description":"Séjour thermal avec repas kaiseki traditionnel",
+      "price": 200,
+      "category":"Repas & hébergement",
+     "image":"https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 6,
+      "title":"Dégustation Wagyu A5",
+     "description":"Menu prestige avec viande de boeuf wagyu de qualité supérieure",
+      "price": 250,
+      "category":"Repas & cadeau",
+     "image":"https://images.unsplash.com/photo-1606787366850-de6330128bfc?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 7,
+      "title":"Week-end Kyoto",
+     "description":"Séjour romantique avec cérémonie du thé et repas traditionnel",
+      "price": 275,
+      "category":"Repas & hébergement",
+     "image":"https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 8,
+      "title":"Atelier Sushi",
+     "description":"Cours de préparation de sushi avec un chef japonais",
+      "price": 85,
+      "category":"Formules repas",
+     "image":"https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 9,
+      "title":"Dégustation Saké Premium",
+     "description":"Sélection des meilleurs sakés japonais accompagnés de petites bouchées",
+      "price": 140,
+      "category":"Repas & cadeau",
+     "image":"https://images.unsplash.com/photo-1580719993950-0d35ce87c26f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 10,
+      "title":"Nuitée Tokyo",
+     "description":"Expérience luxueuse dans un hôtel capsule haut de gamme avec petit-déjeuner",
+      "price": 300,
+      "category":"Repas & hébergement",
+     "image":"https://images.unsplash.com/photo-1493515322954-4fa727e97985?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 11,
+      "title":"Brunch Japonais",
+     "description":"Assortiment de petits plats traditionnels pour un dimanche matin",
+      "price": 60,
+      "category":"Formules repas",
+     "image":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    },
+    {
+      "id": 12,
+      "title":"Surprise Wagashi",
+     "description":"Assortiment de pâtisseries japonaises traditionnelles pour célébrer un anniversaire",
+      "price": 175,
+      "category":"Repas & cadeau",
+     "image":"https://images.unsplash.com/photo-1581337204873-ef36aa186caa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&h=600&q=80"
+    }
+]
