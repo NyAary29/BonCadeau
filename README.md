@@ -73,8 +73,8 @@ src/
 ### 1. 📥 Cloner le repo
 
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-projet.git
-cd nom-du-projet
+git clone https://github.com/NyAary29/BonCadeau.git
+cd BonCadeau
 ```
 
 ### 2. 📦 Installer les dépendances

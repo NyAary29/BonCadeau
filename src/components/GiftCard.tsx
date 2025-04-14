@@ -32,7 +32,8 @@ export default function GiftCard({
           <span className="text-[#5F4B32] font-bold">{price}</span>
         </div>
         <div className="flex items-center justify-between mt-2 text-sm">
-          <span className="text-[#5F4B32]">{people}</span>
+          <span className="text-[#5F4B32]">{people}  Pour 2 personnes</span>
+         
           <button className="px-4 py-1 rounded-full border border-[#B68641] text-[#B68641] font-medium text-sm bg-white hover:bg-[#B68641] hover:text-white transition">
             Offrir
           </button>

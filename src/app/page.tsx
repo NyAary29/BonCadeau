@@ -29,7 +29,6 @@ export default function Home() {
   const endIndex = startIndex + itemsPerPage;
   const paginatedGifts = filteredGifts.slice(startIndex, endIndex);
 
-  // 🔁 Changement de catégorie : reset à page 1
   const handleCategoryChange = (cat: string) => {
     setActiveCategory(cat);
     setCurrentPage(1);
@@ -46,7 +45,6 @@ export default function Home() {
 
       <GiftList gifts={paginatedGifts} />
 
-      {/* Pagination visible seulement si plusieurs pages */}
       {totalPages > 1 && (
         <Pagination
           currentPage={currentPage}
